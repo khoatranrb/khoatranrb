@@ -4,7 +4,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=khoatranrb&theme=merko) -->
  
-- 🔭 I’m currently working on UET-VNU as a undergraduate student.
+- 🔭 I’m currently working on SKKU as a PhD student.
 - 🌱 I’m currently learning Machine Learning.
 - 📫 How to reach me: khoatranrb@gmail.com
 <!--
